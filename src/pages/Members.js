@@ -1,7 +1,11 @@
+import React from 'react'
+
 const Members = () => {
   return (
-    <div>Members</div>
-  )
-}
+    <div className='card card-body'>
+      <h2>Members</h2>
+      </div>
+  );
+};
 
 export default Members

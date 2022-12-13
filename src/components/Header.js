@@ -1,11 +1,11 @@
 import React from 'react'
 
-const SongList = () => {
+const Header = () => {
   return (
     <div className='card card-body'>
-    <h2>SongList</h2>
+    <h2>Header</h2>
     </div>
   );
 };
 
-export default SongList
+export default Header
